@@ -3,54 +3,54 @@
     <Agents>
         <CFO>
             <name>CFO</name>
-            <description>Chief Financial Officer - Allows you to research finance related upgrades and abilities such as bank loans &amp; improved financial reporting.</description>
+            <description>Chief Oficial Financiero - Le permite investigar sobre actualizaciones y habilidades relacionadas con finanzas, como préstamos bancarios y otros &amp; informes financieros mejorados.</description>
         </CFO>
         <COO>
             <name>COO</name>
-            <description>Chief Operations Officer - Allows you to research operations and logistics related upgrades and tools.</description>
+            <description>Chief Oficial de Operaciones - Allows you to research operations and logistics related upgrades and tools.</description>
         </COO>
         <CTO>
             <name>CTO</name>
-            <description>Chief Technology Officer - Allows you to research technology related upgrades and provides access to objects such as public address systems &amp; other improved technological objects.</description>
+            <description>Oficial Jefe de Tecnología - Allows you to research technology related upgrades and provides access to objects such as public address systems &amp; other improved technological objects.</description>
         </CTO>
         <FinanceVP>
             <name>Finance VP</name>
-            <description>Vice President of Finance - Allows you to 'research' tax related improvements and can help keep wheels greased.</description>
+            <description>Vice presidente de Finanzas - Allows you to 'research' tax related improvements and can help keep wheels greased.</description>
         </FinanceVP>
         <FlightAttendant>
-            <name>Flight Attendant</name>
+            <name>Auxiliar de Vuelo</name>
             <description></description>
         </FlightAttendant>
         <FoodWorker>
-            <name>Food Worker</name>
+            <name>Trabajador de restauración</name>
             <description>Takes and prepares orders in Retail zones.</description>
         </FoodWorker>
         <Foreman>
-            <name>Foreman</name>
+            <name>Capataz</name>
             <description>Construction Foreman - Allows you to research construction related upgrades &amp; abilities, such as intersecting runways and more.</description>
         </Foreman>
         <Janitor>
-            <name>Janitor</name>
+            <name>Portero</name>
             <description>Cleans up trash around the airport, schedules garbage pickup to avoid getting shut down.</description>
         </Janitor>
         <Laborer>
-            <name>Laborer</name>
+            <name>Obrero</name>
             <description></description>
         </Laborer>
         <Passenger>
-            <name>Passenger</name>
+            <name>Pasajero</name>
             <description></description>
         </Passenger>
         <Pilot>
-            <name>Pilot</name>
+            <name>Piloto</name>
             <description></description>
         </Pilot>
         <RampAgent>
-            <name>RampAgent</name>
+            <name>Agente de rampa</name>
             <description>Aircraft STUCK?  Ramp agent to the rescue!  They help "un-stick" all the aircraft on the ground for a small one-time fee.  When their work is done, they'll leave.   Also known as the "Golden Towbar Award".</description>
         </RampAgent>
         <Security>
-            <name>Security</name>
+            <name>Seguridad</name>
             <description>Clears bags and passengers as they make it through the airport.</description>
         </Security>
         <Staff>
@@ -58,15 +58,15 @@
             <description>Handles customer service positions, including operating desks.</description>
         </Staff>
         <VendorWorker>
-            <name>VendorWorker</name>
+            <name>Vendedor</name>
             <description></description>
         </VendorWorker>
         <Workman>
-            <name>Workman</name>
+            <name>Obrero</name>
             <description>Handles all construction related tasks.</description>
         </Workman>
         <BaggageCar>
-            <name>Baggage Car</name>
+            <name>Carro de maletas</name>
             <description><!-- not used --></description>
         </BaggageCar>
         <BaggageCarTest>
@@ -74,11 +74,11 @@
             <description><!-- not used --></description>
         </BaggageCarTest>
         <DeliveryTruck>
-            <name>Delivery Truck</name>
+            <name>Camión de reparto</name>
             <description><!-- not used --></description>
         </DeliveryTruck>
         <FuelDeliveryTruck>
-            <name>Fuel Delivery Truck</name>
+            <name>Camión de combustible</name>
             <description><!-- not used --></description>
         </FuelDeliveryTruck>
         <FuelTruck>
@@ -86,7 +86,7 @@
             <description><!-- not used --></description>
         </FuelTruck>
         <GarbageTruck>
-            <name>Garbage Truck</name>
+            <name>Camión de basura</name>
             <description><!-- not used --></description>
         </GarbageTruck>
         <GolfCart>
@@ -94,7 +94,7 @@
             <description><!-- not used --></description>
         </GolfCart>
         <PassengerBus>
-            <name>Passenger Bus</name>
+            <name>Bus de pasajeros</name>
             <description><!-- not used --></description>
         </PassengerBus>
         <PassengerTaxi>
